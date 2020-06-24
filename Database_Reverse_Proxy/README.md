@@ -1,0 +1,2 @@
+Container para gerar um servidor de proxy reverso TCP para gerar conexão com o banco de dados.
+Atualmente este serviço foi modificado para um servidor de roteamente e não está mais sendo utilizado como container.
