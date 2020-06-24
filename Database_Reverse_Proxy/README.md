@@ -1,2 +1,2 @@
-Container para gerar um servidor de proxy reverso TCP para gerar conexão com o banco de dados.
+Imagem para gerar um servidor de proxy reverso TCP que gera uma conexão com bancos de dados.
 Atualmente este serviço foi modificado para um servidor de roteamente e não está mais sendo utilizado como container.
