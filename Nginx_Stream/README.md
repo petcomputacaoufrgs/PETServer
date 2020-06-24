@@ -1,0 +1,2 @@
+Servidor de Proxy Reverso configurado para criar uma conexão TCP com um servidor de Banco de Dados.
+Este servidor foi retirado de container sendo executado atualmente em um computador com a função de roteador do servidor.
