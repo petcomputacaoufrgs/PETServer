@@ -1,2 +1,2 @@
-Imagem para gerar um servidor de proxy reverso TCP que gera uma conexão com bancos de dados.
-Atualmente este serviço foi modificado para um servidor de roteamente e não está mais sendo utilizado como container.
+Docker Image for TCP/UDP reverse proxy used for generate connection with an external database for ARM and AMD architectures. 
+It's discontinued because server is now using a router computer with TCP/UDP reverse proxy instead a container.
